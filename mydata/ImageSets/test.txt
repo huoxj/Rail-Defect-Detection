@@ -1,0 +1,3 @@
+e:\Python_Program\railDetection\mydata\JPEGImages\1-3-0.png
+e:\Python_Program\railDetection\mydata\JPEGImages\2-3-2.png
+e:\Python_Program\railDetection\mydata\JPEGImages\2-1-3.png

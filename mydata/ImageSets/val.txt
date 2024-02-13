@@ -1,0 +1,9 @@
+e:\Python_Program\railDetection\mydata\JPEGImages\3-0-0.png
+e:\Python_Program\railDetection\mydata\JPEGImages\1-2-1.png
+e:\Python_Program\railDetection\mydata\JPEGImages\1-1-1.png
+e:\Python_Program\railDetection\mydata\JPEGImages\3-1-3.png
+e:\Python_Program\railDetection\mydata\JPEGImages\2-2-2.png
+e:\Python_Program\railDetection\mydata\JPEGImages\2-2-3.png
+e:\Python_Program\railDetection\mydata\JPEGImages\4-0-0.png
+e:\Python_Program\railDetection\mydata\JPEGImages\1-2-3.png
+e:\Python_Program\railDetection\mydata\JPEGImages\4-2-2.png
